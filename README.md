@@ -2,7 +2,6 @@
 •	pip install pyqt6  <br>
 • To install the PyQT Designer:  <br>
 Download the appropriate version from https://build-system.fman.io/qt-designer-download
-![image](https://github.com/user-attachments/assets/616f3402-854e-4a23-8cee-51c6d567ad36)
 
 
 
