@@ -1,8 +1,10 @@
 **Prerequisites**
 •	pip install pyqt6  <br>
-• To install the Designer:  <br>
-Get the appropriate version (Win / Mac) from https://build-system.fman.io/qt-designer-download
-![image](https://github.com/user-attachments/assets/655df502-428d-4b3a-bf55-da13b61b22f3)  <br>
+• To install the PyQT Designer:  <br>
+Download the appropriate version from https://build-system.fman.io/qt-designer-download
+![image](https://github.com/user-attachments/assets/616f3402-854e-4a23-8cee-51c6d567ad36)
+
+
 
 **Experiment overview**
 
