@@ -1,10 +1,15 @@
-Experiment overview
+**Prerequisites**
+•	 pip install pyqt6
+• To install the Designer: 
+Get the appropriate version (Win / Mac) from https://build-system.fman.io/qt-designer-download
+![image](https://github.com/user-attachments/assets/655df502-428d-4b3a-bf55-da13b61b22f3)
+
+**Experiment overview**
 
 The code provided can be used to investigate the affective state of suspense.  The experiment created is a replication of experiment one in Zhi-Wei and colleagues’ 2019 study, with a few minor modifications made. In this experiment, the researchers took games that the theoretical model of suspense predicted to be extremely high/low in suspense. They then asked participants to play these games and self-report their levels of suspense throughout the game. The model also predicts step by step fluctuations in suspense, which can also be compared to the participants’ reports of suspense.
 
-Experimenter’s manual
+**Experimenter’s manual**
 
-•	This program requires QT Designer to be installed.<br>
 •Open the main file of the program and navigate to the experiment setup section (lines 20-40). <br>
 •	Here you can change the name of the results file that is output by the program. It is set to ExperimentResults.csv by default.  You do not need to create this file, the program will automatically create the file with the name you have given on the first run.<br>
 •	Set max_trials to be the number of card draws you would like the participants to complete. This is set to 5 by default. <br>
